@@ -234,22 +234,23 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {157059515,103214508},--Sudo users
+    sudo_users = {216947552},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[Api TeleBeyond V1.0 Open Source
 An Advanced Administration Api Bot Based On TeleSeed Written In Lua
 
 Source On GitHub :
-http://GitHub.com/BeyondTeam/Api-TeleBeyond
+http://GitHub.com
 
 Sudo Users :
 
-Developer&Founder : @SoLiD021
+Developer&Founder : @mahdib9
 
 Developer&Manager : @idivanmanheb
 
 Team Channel :
-Telegram.me/BeyondTeam
+Telegram.me/s
+
 
 Special Thx To :
 @MrHalix
